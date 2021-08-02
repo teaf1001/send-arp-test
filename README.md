@@ -3,7 +3,7 @@
 과제 제출입니다.
 VMware 안의 공격자 호스트에서 ICMP 패킷이 잡히지 않아 로컬에서 Wireshark로 캡쳐하였습니다.
 
-target ip: 192.168.0.1
+target ip: 192.168.0.1\n
 target mac: 70:5D:CC:E6:E2:54
 
 you1 ip: 192.168.0.2
